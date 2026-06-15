@@ -39,13 +39,6 @@ Si no puede configurar un system prompt, pegue el contenido del `SKILL.md` como 
 
 ---
 
-## Marco legal sobre uso de IA en Colombia
-
-- **CONPES 4144 de 2025** — Política Nacional de IA: [dnp.gov.co](https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/4144.pdf)
-- **Sentencia T-323 de 2024** — La IA no reemplaza el criterio del profesional: [corteconstitucional.gov.co](https://www.corteconstitucional.gov.co/relatoria/2024/t-323-24.htm)
-- **Ley 2502 de 2025** — Agravante penal por suplantación con IA: [bu.com.co](https://www.bu.com.co/es/insights/noticias/novedades-regulatorias-en-materia-de-ia-en-colombia)
-
----
 
 ## Licencia
 
